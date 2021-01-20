@@ -26,6 +26,7 @@ public class MyFirstApp{
         }
         if ((x < 3) & (name.equals("Dirk"))) {
             System.out.println("Gently");
+            
         }
         System.out.println("this line runs no matter what");
 
